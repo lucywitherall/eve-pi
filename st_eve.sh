@@ -41,7 +41,7 @@ pip3 install adafruit-circuitpython-ads1x15 adafruit-circuitpython-mcp230xx adaf
 
 #Git Clone Repo
 mkdir /eve
-git clone https://github.com/vishhvaan/eve-pi.git /eve
+git clone https://github.com/lucywitherall/eve-pi.git /eve
 
 #Copy Service to Location
 cp /eve/webui/eve_webui.service /lib/systemd/system/eve_webui.service
